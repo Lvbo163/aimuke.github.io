@@ -1,8 +1,8 @@
 ---
 layout: post
-title: [How to blog in markdown using Github and Jekyll Now](https://howchoo.com/g/yzg0yjdmntl/how-to-blog-in-markdown-using-github-and-jekyll-now)
+title: How to blog in markdown using Github and Jekyll Now
 ---
-
+[How to blog in markdown using Github and Jekyll Now](https://howchoo.com/g/yzg0yjdmntl/how-to-blog-in-markdown-using-github-and-jekyll-now)
 **by Tyler (216)Time to complete: 10 minutes**
 
 <!-- TOC -->
