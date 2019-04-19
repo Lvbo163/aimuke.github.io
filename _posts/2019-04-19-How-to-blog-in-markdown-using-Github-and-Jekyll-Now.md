@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to blog in markdown using Github and Jekyll Now
+title: [How to blog in markdown using Github and Jekyll Now](https://howchoo.com/g/yzg0yjdmntl/how-to-blog-in-markdown-using-github-and-jekyll-now)
 ---
 
 **by Tyler (216)Time to complete: 10 minutes**
@@ -34,7 +34,7 @@ If you don't already have a Github account, go ahead and sign up on http://githu
 Go ahead and fork the [Jekyll Now](https://github.com/barryclark/jekyll-now) repository. To fork simply click the link, and find the button that says "Fork". If necessary, choose where you want to fork the repository.
 
 Then rename the repository to:
-```sh
+```
 yourgithubusername.github.io
 ```
 # 3.Clone this repository to your local computer (optional)
