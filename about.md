@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I will post some articles here. Some of them are redirected from other places.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I came; I saw; I conquered
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lyu.bob101@gmail.com](mailto:lyu.bob101@gmail.com)
